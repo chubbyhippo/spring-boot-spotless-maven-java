@@ -76,7 +76,7 @@
                         <goals>
                             <goal>apply</goal>
                         </goals>
-                        <phase>clean</phase>
+                        <phase>validate</phase>
                     </execution>
                 </executions>
             </plugin>

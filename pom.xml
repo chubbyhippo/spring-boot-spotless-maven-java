@@ -67,9 +67,9 @@
                 <configuration>
                     <java>
                         <palantirJavaFormat/>
+                        <formatAnnotations/>
                         <removeUnusedImports/>
                         <forbidWildcardImports/>
-                        <formatAnnotations/>
                     </java>
                 </configuration>
                 <executions>

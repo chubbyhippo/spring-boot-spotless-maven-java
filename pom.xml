@@ -78,6 +78,9 @@
                         </includes>
                         <idea/>
                     </sql>
+                    <pom>
+                        <sortPom/>
+                    </pom>
                 </configuration>
 
                 <executions>
